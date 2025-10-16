@@ -1,6 +1,5 @@
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.lang.Thread;
 import java.util.Map;
 import java.util.Scanner;
 
